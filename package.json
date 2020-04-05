@@ -1,0 +1,12 @@
+{
+  "name": "capaiglebot",
+  "version": "2.0.4",
+  "description": "A bot for commands of Cap Aigle's Market",
+  "main": "index.js",
+  "repository": "https://github.com/Luzog78/CapeAigleBot.git",
+  "author": "Luzog78",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
